@@ -10,6 +10,6 @@ An acitve mult in Kosmo modular synth format
 
 Contained are schematics & gerber files for pcb fabrication of both electrical and front panel. This is sutiable for entry level however a basic level of electronics, soldering, fault finding, and some basic tools are required.
 
-![Schematic]("/Docs/Buren Mult Schematic.pdf")
+[Schematic](/Docs/Buren Mult Schematic.pdf)
 
-![BOM]("Docs/Buren-Mult BOM.pdf")
+[BOM](Docs/Buren-Mult BOM.pdf)
