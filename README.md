@@ -10,6 +10,13 @@ An acitve mult in Kosmo modular synth format
 
 Contained are schematics & gerber files for pcb fabrication of both electrical and front panel. This is sutiable for entry level however a basic level of electronics, soldering, fault finding, and some basic tools are required.
 
+If you wish to edit in ki-cad the following dependencies are required
+
+ https://github.com/holmesrichards/Kosmo_panel
+ 
+ https://github.com/holmesrichards/aoKicad
+ 
+
 [Schematic](/Docs/Buren-Mult-Schematic.pdf)
 
 [BOM](Docs/Buren-Mult-BOM.pdf)
